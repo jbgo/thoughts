@@ -1,0 +1,3 @@
+module Thoughts
+
+end
