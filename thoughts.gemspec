@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["jordanbach@gmail.com"]
   s.homepage    = "http://github.com/jbgo/thoughts"
   s.summary     = "A static site generator for the creative at heart"
-  s.description = "TODO"
+  s.description = "Thoughts cosists of three parts - a library for generating static sites, a CLI for automating site generation tasks, and a web interface for creating content and managing your site."
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")

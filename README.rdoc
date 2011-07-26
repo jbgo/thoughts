@@ -4,11 +4,9 @@
 
 A static site generator for the creative at heart.
 
-Thoughts consists of a command line utility for generating static sites based on
-a set of templates and a set of content. It also includes a frontend admin
-interface that allows you to easily edit the site with out having to worry about
-the details of the command line utility. This allows you to focus on your
-content and ignore the details.
+Thoughts cosists of three parts - a library for generating static sites, a CLI
+for automating site generation tasks, and a web interface for creating content
+and managing your site.
 
 == Installation
 
